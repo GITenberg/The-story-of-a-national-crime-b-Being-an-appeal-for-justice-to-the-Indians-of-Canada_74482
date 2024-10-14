@@ -1,0 +1,38 @@
+_repo: The-story-of-a-national-crime-b-Being-an-appeal-for-justice-to-the-Indians-of-Canada_74482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryce, P. H. (Peter Henderson)
+    alias: Bryce, Peter Henderson
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '55495'
+    url: http://www.gutenberg.org/2009/agents/55495
+    wikipedia: https://en.wikipedia.org/wiki/Peter_Bryce
+description: ''
+gutenberg_issued: '2024-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74482'
+language: en
+pgterms:marc904: https://archive.org/details/storyofnationalc00brycuoft
+pgterms:marc905: 20220925195401peterhende
+pgterms:marc906: '1922'
+pgterms:marc907: ca
+production_note: Andrew Sly and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aOttawa :$bJames Hope & Sons, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians, Treatment of -- Canada -- History'
+- !lcsh 'Indians of North America -- Health and hygiene -- Canada -- History'
+- !lcsh 'Indians of North America -- Canada -- Government relations -- History'
+- !lcsh 'Indians of North America -- Canada -- Residential schools -- History'
+- !lcc 'E011'
+- !lcc 'F1001'
+- GITenberg
+title: 'The story of a national crime : $b Being an appeal for justice to the Indians
+  of Canada'
+url: http://www.gutenberg.org/ebooks/74482
